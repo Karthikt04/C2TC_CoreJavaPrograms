@@ -16,13 +16,9 @@ public class EncapsulationDemo {
 	public void setAccountNo(int accountNo) {
 		this.accountNo = accountNo;
 	}
-	public String tostring() {
+	@Override
+	public String toString() {
 		return "encapsulation demo"+name+accountNo;
 	}
-	
-	public String toString() {
-		return "EncapsulationDemo [name=" + name + ", accountNo=" + accountNo+ "]";
-	}
-
 
 }
