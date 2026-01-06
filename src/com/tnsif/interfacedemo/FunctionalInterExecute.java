@@ -5,7 +5,7 @@ public class FunctionalInterExecute{
 		
 		//lambda expression
 		FunctionalInter gd = () -> {
-			System.out.println("Good Night! Sleep well");
+			System.out.println("Good Night! Sleep weslots");
 			};
 		
 		gd.greet();

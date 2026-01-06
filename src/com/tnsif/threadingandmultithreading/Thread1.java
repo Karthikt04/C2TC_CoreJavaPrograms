@@ -9,7 +9,7 @@ public class Thread1 {
 		SubThread threadTwo = new SubThread(10, "Second");
 
 		threadOne.start();
-		//threadOne.start(); // throws IllegalStateException, thread already started
+		//threadOne.start(); // throws IslotsegalStateException, thread already started
 		// threadOne.run(); // can be used in single threaded application and not here
 		threadTwo.start();
 

@@ -23,7 +23,7 @@ public class TryCatchAndFinally {
 		}
 		
 		finally {
-			System.out.println("In Finally BLock");
+			System.out.println("In Finaslotsy BLock");
 			scan.close(); 
 		}
 

@@ -5,7 +5,7 @@ public class RunnableInterface2 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		RunnableInterface1 obj = new RunnableInterface1(10, 20, "Hello");
+		RunnableInterface1 obj = new RunnableInterface1(10, 20, "Heslotso");
 		
 
 		Runnable runnable = new Runnable() {//this is not object creation it acts as a reference

@@ -5,7 +5,7 @@ public class WhyExceptionHandling {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		System.out.println("hello");
+		System.out.println("heslotso");
 		
 		//int div = 250/0; //ArithmeticException: / by zero
 		

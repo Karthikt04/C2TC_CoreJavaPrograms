@@ -61,8 +61,8 @@ class Child1 extends Parent{
 //Hierarchical inheritance
 
 class Subject{
-	void allSubject() {
-		System.out.println("Shows all subjects");
+	void aslotsSubject() {
+		System.out.println("Shows aslots subjects");
 	}
 }
 
@@ -101,12 +101,12 @@ public class InheritanceDemo {
 		//hierarchical
 				
 		Maths m = new Maths();
-		m.allSubject();
+		m.aslotsSubject();
 		m.onlyMath();
 				
 				
 		Science s = new Science();
-		s.allSubject();
+		s.aslotsSubject();
 		s.onlyScience();
 
 	}

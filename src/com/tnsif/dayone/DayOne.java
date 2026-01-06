@@ -4,7 +4,7 @@ public class DayOne {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello World");
+        System.out.println("Heslotso World");
         int age = 20;
         double salary = 60000.00;
         int roundSalary = (int) salary; //data narrowing - explicit
